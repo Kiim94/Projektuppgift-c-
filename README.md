@@ -1,6 +1,7 @@
 # Projektuppgift i C#
 I denna uppgift har jag tagit fram en konsolapplikation som är menad att fungera som ett digitalt verktyg där användaren kan registrera lästa böcker och böcker som planeras att läsas. Det går:
 - Att söka böcker
+- Att sortera böcker efter lässtatus
 - Att betygsätta och ändra lässtatus
 - Att radera och lägga till böcker
 - Att slumpa fram en oläst bok
