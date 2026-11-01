@@ -1,0 +1,31 @@
+{
+  "Books": [
+    {
+      "Title": "Pippi L\u00E5ngstrump",
+      "Author": "Astrid Lindgren",
+      "IsRead": true,
+      "Rating": 0,
+      "Pages": 200,
+      "Genre": "Barn",
+      "DateAdded": "2026-10-26T16:05:20.4626678+01:00"
+    },
+    {
+      "Title": "Kolibri feber",
+      "Author": "Koko",
+      "IsRead": false,
+      "Rating": 0,
+      "Pages": 10,
+      "Genre": "Animals",
+      "DateAdded": "2026-10-26T16:05:51.3958645+01:00"
+    },
+    {
+      "Title": "book",
+      "Author": "bokish",
+      "IsRead": false,
+      "Rating": 0,
+      "Pages": 800,
+      "Genre": "dee",
+      "DateAdded": "2026-10-29T17:46:30.645164+01:00"
+    }
+  ]
+}
